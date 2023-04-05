@@ -1,4 +1,6 @@
 ![Big Logo](https://github.com/CampusRoute/.github/blob/main/assets/logo-big.png)
+<br><br><br>
+[![Made in Australia](https://img.shields.io/badge/Made_In-Australia-00843D?labelColor=FFCD00&style=for-the-badge)](https://www.madeinaustralia.com.au/)
 
 Welcome to Campus Route! Our organization is dedicated to helping students navigate their way around school and stay
 organized. We provide resources and tools that enable students to easily find their way to classes, stay on top of
