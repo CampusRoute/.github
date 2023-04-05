@@ -1,4 +1,4 @@
-![Big Logo](../blob/main/assets/logo-big.png)
+![Big Logo](https://github.com/CampusRoute/.github/blob/main/assets/logo-big.png)
 
 Welcome to Campus Route! Our organization is dedicated to helping students navigate their way around school and stay
 organized. We provide resources and tools that enable students to easily find their way to classes, stay on top of
