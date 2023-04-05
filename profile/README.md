@@ -20,5 +20,4 @@ guidelines](../CONTRIBUTING.md) and our [code of conduct](../CODE_OF_CONDUCT.md)
 
 If you have any questions or comments about our organization, please contact us at [insert contact email].
 
-## Thank you for your interest in Campus Route!
 ## Thats all for now! 🎉
