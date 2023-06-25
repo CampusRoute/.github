@@ -7,12 +7,6 @@ organized. We provide resources and tools that enable students to easily find th
 assignments and deadlines, and manage their schedules. Our mission is to empower students to succeed by providing the
 support and guidance they need to achieve their academic and personal goals.
 
-## Getting Started 🚀
-
-To get started with our organization, please visit our website at
-[https://campus-route.vercel.app/](https://campus-route.vercel.app/) and explore our projects. We are
-always looking for new contributors, so feel free to get involved!
-
 ## Contributing 🙌
 
 We welcome contributions from anyone interested in our projects. To contribute, please follow our [contribution
